@@ -1,2 +1,60 @@
 # OSINT
 OSINT Tools, if you have anymore tools/websites/resources please create an issue or fork and let me know!
+https://intelx.io
+https://www.truepeoplesearch.com
+https://onlinereverselookup.com
+https://www.officialusa.com
+https://www.idcrawl.com
+https://start.me/p/L1rEYQ/osint4all
+https://whitepages.com
+https://www.yellowpages.com/
+https://usa-official.com/
+https://radaris.com/
+https://www.vehiclehistory.com/license-plate-search
+https://osintframework.com/
+https://haveibeenpwned.com/
+https://github.com/smicallef/spiderfoot -- default with kail linux
+https://hackertarget.com/recon-ng-tutorial/#install -- default with kail linux
+https://pimeyes.com/en
+https://tineye.com/
+https://ahmia.fi/
+https://github.com/Greenwolf/social_mapper
+https://whatsmyname.app
+https://urlscan.io/
+https://dnsdumpster.com/
+https://epieos.com/
+https://opencorporates.com/
+https://thatsthem.com/
+https://openminds.exopaedia.org/EXIF%20samples/exif%2069667671.egLsAwK4.Staroselciweb64_6625.htm
+https://exiftool.org/
+https://twitonomy.com/
+https://tinfoleak.com/
+https://www.codeofaninja.com/tools/
+https://imginn.com/
+https://www.linkedin.com/feed/
+https://www.exploit-db.com/google-hacking-database
+https://www.maxmind.com/en/geoip-web-services-demo
+https://github.com/jivoi/awesome-osint
+https://geospy.web.app (must use chrome, brave)
+https://web.archive.org/
+https://inteltechniques.com/tools/index.html
+https://usersearch.org/
+https://wigle.net/
+https://www.crunchbase.com/
+https://www.zoominfo.com/
+https://www.opensanctions.org/
+https://www.openownership.org/en/
+https://www.epfindia.gov.in/site_en/index.php
+https://www.apollo.io/
+https://www.dnb.com/en-us/products/dnb-hoovers.html
+https://hunter.io/
+https://prospeo.io/domain-search
+https://anymailfinder.com/email-finder-by-domain
+https://snov.io/email-finder
+https://dehashed.com/
+https://getprospect.com/email-finder/email-finder-by-domain
+https://www.cyberbackgroundchecks.com
+https://www.city-data.com/
+http://www.icrimewatch.net/
+https://omar-thing.site
+https://one-plus.github.io
