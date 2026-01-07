@@ -1,0 +1,1229 @@
+Title:Surgeons How to find info Guide
+
+Created:Sep 21st, 2024
+
+Created by: Surgeon [Criminal]
+
+Views: 21
+
+Comments: 1
+thumb_up0 thumb_down0
+
+    New (N)
+    Raw (R)
+
+    Username: Anonymous - (Login)
+    Submit Comment
+
+Anonymous -
+
+4 minutes ago
+When using VPNs, STAY OUT OF THE USA AND OTHER FIRST WORLD COUNTRY SERVERS!
+
+Please note that all posted information is publicly available and must follow our TOS.
+
+ 
+Fully written and put together by Surgeon & Kaya
+
+Comprehensive guide to OSINT | Open Sourced Intelligence
+
+"you need to walk before you can run.
+research the intelligence cycle, along with how to identify misinformation, and how to validate information. Then look at how to undertake intelligence ethically and the issues surrounding intelligence within the private sector (namely the lack of governance). Once you understand how intelligence works, and the purpose of intelligence, you can begin your OSINT collection. "
+
+- NoDependent
+
+Part 0: Finding info
+
+finding info comes with pros and cons, you will need a few things:
+
+A functioning computer
+Common Sense
+The will to truly learn
+Good Morals (Anti Extortion, good intentions)
+
+The things with finding info is, you will realize that most of this is common sense or things you already may do.
+The reason finding info is hard is that you have to come up with methods on your own, like image searching into tiktok hashtags to see
+What hashtags they've posted under to find a concert they went to, for example.
+
+
+This is due to needing actual intelligence, making ways to find info on the fly is what you will need, sometimes you will have to sit 
+and pause until you can think up a new method or a new lead, when making a new method being to write it down or follow your entire
+lead.
+
+You should have the motivation to find info, a true hate for someone, or a real reason, finding info someone over beef will give you a feeling
+of burnout about 20 minutes in, find infoes wont be completed in 1 day, harder targets will take a long long time, thats just how it is.
+I've worked weeks on takedowns for extortion groups, the thing is that you need to be patient and really thing or you will
+never be able to be a find infoer, nor do OSINT/CSINT.
+
+This guide is fully finding legal information and information that is public, OSINT Guide strictly.
+
+Always start out your find infoes by making a pad at either of the following:
+
+pad.riseup.net
+pad.find info.homes
+
+To paste any and all information you gain, even fake information has relevance.
+
+You can search query any info you have inside of find doxbin to maybe see if theyve already been find infoed
+
+
+-------------------------------------------------------------------------------------------------------------------------------------
+
+For All Socials:
+
+Generally you can use things like whatsmyname.app and osint.industries to look up usernames.
+
+keep in mind for all socials with stories, them posting tiktoks and etc means they have tiktok the app.
+remember to always save their banner and pfp for reverse image searching purposes, goes for all
+forgot password any social you can for confirmation / guessing emails etc purposes.
+always use whatsmyname.app on all usernames you gain, as this is an important factor in finding socials (common usernames)
+for all biolinks like guns.lol, feds.lol, etcetera, you can find info an admin for inny privileges 
+or you can just export their socials and save them
+put all socials into db breaches and skim with keywords or full skim.
+dorking all users is also suggested
+You should be checking all posts and keywording for birthdays.
+
+Use Archive.is to archive all pages you find on someone.
+
+Use common sense, put real effort in
+
+do not try to find info someone for something insignificant.
+
+If you have a phone, import your contacts to get a return on most of these, if there is a contacts page on a social, it will return it.
+
+A list of apps you can use to sync contacts:
+
+Bereal
+Cashapp
+Chess.com
+Depop
+Discord
+Duolingo
+Gettr
+Groupme
+Paypal
+Poshmark
+Smule
+Snapchat
+Strava
+Telegram
+Tiktok
+VSCO
+Whatsapp
+
+YouTube:
+
+You can jack SOME on rare occasions emails by giving them the date of creation, which is also the creation date of their youtube account typically.
+You can skim their videos and descriptions which will likely carry social media accounts
+Saving their banner and youtube pfp is also quite useful for reverse image searching 
+Using their about page you can find their discords, discord servers, business email (which is usually their main) etcetera. 
+Using their socialblade you can check all statistics and income 
+Watching their videos entirely can give you a skim their information as well
+save their banner and pfp for reverse image searching purposes
+Using their comment/description section for their servers, socials, etc
+
+Business emails can be found here
+
+Instagram:
+You can export their followers that they follow back via a web tool
+you can export their stories and highlights using storyviewer.com
+save their pfp and reverse image search it
+skim their posts, followers, etcetera for irls
+forgot password them for their partials to guess their emails, number, confirm them
+
+Business emails can be found here
+
+Chess:
+You can view the country they're from, and people they've played private matches against
+to see who they know, Chess accounts are also very easy to jack along with the fact that
+you can input "search with google" or "search by email" (on phone) to see if they 
+have a chess account linked to their email
+
+Snapchat:
+You can get an idea of who they are via using their bitmoji and saving an image of it.
+You can use their username to get their name, full name, etcetera, same goes with 
+display name. Their Zodiac sign can give you an idea of their birthday, and their stories
+ / subscriber profile can give you an idea of posts, where they live,  who they know, what
+their room likes like, etcetera, whatever you find on their you know. 
+
+SnapMap lol
+
+Import your contacts to find these socials
+
+Twitter:
+use sotwe.com to export all posts, then skim their posts for info, images, etcetera.
+You can use their location, banner, pfp, etcetera, on their main profile to find more
+about them, keep in mind you want to archive all of this.
+You can use the forgot password feature to confirm emails and / or guess them with partials
+you can forgot password emails and numbers for an account.
+
+Spotify:
+Skim the music they listen to so youre able to get a sense of the languages they know and areas they may live in
+e.g if they listen to a certain type of drill music or a lot of artists from 1 area, they may live there
+Use their username to reverse search it, if at the top in the link they use something like "zodiackiller745"
+their email will be: zodiackiller745@gmail.com, this is because it used to default your username to your email
+you can contact spotifys anonymous support team saying the following:
+
+"Hello I have been logged out of my account and there have been some weird transactions on my account, can you
+give me the email related to the account or attempt to help me remember it?"
+
+If they ask you for card details, the user has bought premium, you can use the previous excuse of weird transactions
+to say that you will not give them your last 4 digits of your card. Do a test run beforehand to make sure that they do
+have premium on your acc, it may take a few tries if you are unlucky.
+
+Pastebin:
+
+not much to check except for their username and create date, can match up with other coding websites along with their code / pastes. very quick session,
+theres also a db which you will have found and looked up for since you have snus, you may also look for their socials in the credits / notes of their code
+
+Archive.org:
+
+archived pages, just use archive.org to look for archived pages.
+
+Linktr.ee:
+
+linktr.ee is a social you should always try to look for or dork, it has all their socials in one, always test old aliases with it.
+
+Tinder:
+
+tinder will have a biography, age, full name nearly all the time, dating profile, photos, and the ability to catfish, 
+trying to catfish and etc for info on area and the rest which may not be on their profile is the best way of doing things.
+
+GitHub:
+
+There's a method to check for username to emails that has a chance of working, you can use myth.rip for this, most of the time you will not get a return. 
+check for their username and create date, can match up with other coding websites along with their code / pastes. very quick session,
+theres also a db which you will have found and looked up for since you have snus, you may also look for their socials in the credits / notes of their code
+
+nymeria post on the method (HOWTO MANUALLY)
+
+ Within the repository view you can see a "commits" link on the left hand side of the page.
+ The image below points it out. The more commits there are, the more likely it is to find a commit by the user. In this case we see 11 commits.
+ All we need is to find a single commit by the target user to find their email address. Click on the commits link to be taken to a commit history view.
+Click the commit history button to begin finding their email.
+
+When viewing the commit history your goal is to find one or more commits created by the target GitHub user. In our example, 
+we are looking for commits by Linus (his GitHub user name is torvalds).
+Click the commit ID to begin processing the commit.
+
+Once you locate a promising commit click on the commit ID on the right hand side to view the actual commit.
+Convert to the patch view to locate the email address
+Ignore the commit view and add .patch to the end of the URL.
+
+The commit view is not very interesting to us, however this is where the real trick comes in.
+ What you want to do next is look at the URL in your browser navigation bar. Add ".patch" to the end of the URL as demonstrated below,
+ and then hit "enter" to load the patch view.
+Find the user's email address in the commit info!
+
+Once the patch view loads you need to examine the commit info to the find the target author. All authors have a name and email address. Locate the user's email address!
+Success! We found Linus' email address.
+
+Note, GitHub has a privacy option to enable masking user emails. Some users enable that privacy option. In that case,
+ you will notice an email that looks something like this: username@users.noreply.github.com. In that case you should ignore the email (maybe try an older repository). 
+
+cfx.re / 5m:
+
+itll show you how long theyve played how active they are, and forum posts,
+you can skim all of this along with most liked by and most liked to see who they like or know in the com,
+really not much harder, also some of their socials like discord or steam may be connected
+
+Epic Games:
+mostly youll just add them on things like fortnite or epic to see other connections,
+you can go on things like fortnite tracker to see who theyve played with, devices, and more
+you can go in the novafn discord and start logging chats, most people post their credentials
+on accident when signing up in the discord
+
+Roblox:
+
+you can use past usernames and their friends list along with rolimons and create date to determine age, friends, age of friends / clique, networth, and etcetera,
+depending on all of these factors you skim
+along with types of games they play / hobbies, if you have the extension on your browser ropremium (something alike) you will be able to view a discord they link.
+some discords like bloxfruits also force their discord name to be linked to their roblox via a nickname
+
+you can go on tumblr to view things they like and memes they post along with many files they post:
+https://name.tumblr.com/archive
+you can also skim their profiles and how long theyve been posting for an age check
+i believe there is also a tumblr db leak somewhere.
+
+Twitch:
+Use their past streams and VODs to maybe get a sense of facecam, usernames, servers played on (servers as in NA West for example, not minecraft or CS etc servers)
+Use their pfp to skim extras, use their about me to get a sense of streamlabs and their socials along with their day to day schedule
+You can get a sense of games played along with how much time they use online and their timezone / country, you should know how to skim most of it.
+
+Business emails can be found here
+
+Streamlabs:
+
+Comes with twitch most of the time, attempt to see payment methods.
+
+PayPal:
+
+Use PayPal forgot password resets to confirm ID, SSN, last 4 partials of a number, email, and more.
+request 1 cent from someone to get a full name on their paypal, if they ID is not confirmed it will
+likely be the full name on their email (you can jack into by forgot passwording gmail with a phone number and inputting)
+paypal.me/randy72722 - use paypal.me to use a username to get a paypal, as theyve added @s. most peoples @s will also be
+their cashapps, cash.app/$randy72722
+
+CashApp:
+
+Full name, use cash.app/$randy2013846 (random name)
+for a pfp and a common @ along with whats going to be a full name if they use their cashapp actively.
+
+Scratch.mit.edu:
+
+Shows you their art style, for other things like deviantart and their types of projects that they work on / may like along with interests
+will have their join date for a sense of age and a country, along with an @ and some followers / following you may also skim.
+
+Carrd:
+
+Most of their information will be public, lots of people make carrds to vent and show social profiles, download all images and export any
+links / socials they might have for you there, its the same as skimming other types of biolinks and webpages.
+
+Minecraft:
+skidsearch.net is an entire database of other minecraft databases, typically from factions or hcf servers,
+you can also go on forums like hypixel.net, etc for their users.
+you can use things like namemc.com to view their skins, people who use their skins for common alts they may have or friends
+and their old usernames for more db checks along with forums of servers they might play
+
+https://api.antisniper.net Extra
+
+Telegram:
+You can use a telegram bot to view chats theyre in, use their id on a userinfobot to check their past usernames
+use their current username as a way to dork and use on whatsmyname.app / anything other service you prefer. 
+if their number is public, archive it depending on what type of target you are incase you want to do a 
+simswap attack on it.
+
+DuoLingo:
+
+There is a method to do email --> Duolingo which I don't exactly know
+You can see what languages they know and what languages they are learning
+You will then likely know their country and where they plan to travel along with their possible full name.
+
+You can use Epieos.com free for email --> Duolingo
+
+MySpace:
+
+You can see someones top 8 talked to / viewed / viewers, their age, town, whatever location they put, pfp, age, etcetera
+You can skim posts along with the myspace 2008 database leak to be able to find info the user much easier.
+
+Example: https://myspace.com/nekka
+
+GameSpot:
+
+If you jack into a gamespot account, it may have billing info including address. Not an exactly known method.
+
+Pizza places (Pizzahut, etc):
+
+If you jack into a Pizzahut, Little Caesars, etc, account, it may have billing info including address. Not an exactly known method.
+
+DoorDash, UberEats, all food delivery:
+
+You can get information on most recent deliviries by calling and giving the email along with the first/full name on the account and a partial number
+or even just an email if its a retarded indian.
+
+Just say theres an order you dont recognize and you need info on it.
+
+Xbox:
+
+xboxgamertag.com to skim their profiles, use  their clips, username, etcetera. their friends list and such alike
+xresolver.com / octosniff (paid & free) is a database of all xbox IPs that were logged from public party drops / bo2 lobbies, etc.
+Also skim achievements and games played, you can skim their videos for friends, servers played on (OCE for example)
+
+PSN: 
+
+https://psnprofiles.com/ to skim their profiles, use  their clips, username, etcetera. their friends list and such alike
+xresolver.com / octosniff (paid & free) (Less prominent on psn) is a database of all xbox IPs that were logged from public party drops / bo2 lobbies, etc.
+Also skim achievements and games played, you can skim their videos for friends, servers played on (OCE for example)
+
+find doxbin:
+
+People will typically have their bios in their find doxbin as things like their telegrams or biolinks, which ive already taught you to skim
+this is also true for discords, which is coming up soon.
+There was a 2021 find doxbin database leak, almost anyone with a UID under 50,000 will have a find doxbin db leak with their shit, email, etc.
+
+Discord:
+You can skim their sent messages in discord, export their dms, always use a message logger when talking to people (via betterdiscord)
+Use their connections to their discord accounts for socials
+You can use a variety of discord bots for Minecraft, Roblox, Fortnite, for those --> Discord
+Using servers that force nickname to their gaming usernames such as bloxfruits or hypixel.
+Using their bio as friends and servers they may be in for such previous mentioned methods, communities etc.
+
+Reddit
+
+Among reddit you can skim posts, date of births, common topics, and etc, which will have the following:
+Usernames, hobbies, interests, TLO availability, Country.
+These are all worth skimming for and most pictures of computers will have their face in blacked out spots of images
+
+Facebook:
+
+You can skim life events for a childs date of birth, a date of birth, jobs, school, all of it will be listed
+skim friends list for family members
+use their pfp and banner to skim for family and to skim for them, themselves.
+use the forgot username method to input an email for a facebook.
+use their posts and jsut fullskim along with their relationships and such extras whcih should all be common sense by now
+
+VK:
+https://vk.com/communities
+vkparser.ru
+
+VK = VKontakte, it is a russian forum like facebook, just follow that guide back, its simply a mix of facebook and twitter.
+VK will likely not have as much, due to russian socials being more secure.
+
+Poshmark:
+
+Poshmark is a selling website you can use to sell or wishlist things along with look for them
+You can SE by contacting them as a customer and do Email to Poshmark.
+
+Import your contacts from your phone 
+
+Trello:
+
+Trello is a forum, you can use the account to check which forums they are in, you can also do Email to Trello Module which will return a username.
+(Epieos.com , myth.rip) (paid and free)
+
+Import your contacts from your phone 
+
+Skype
+
+You can collect all information connected to a skype Via:
+Epieos.com
+
+Using a skype resolver can help you resolve an IP Address.
+
+FitBit:
+
+Import contacts from your phone
+
+AirBnb:
+
+Method patched.
+
+Replit:
+
+you have to create a replit invite
+to the email
+and remove it right after
+
+it will return the username.
+
+when you invite them
+it will show the name and profile url
+
+Stackoverflow:
+(Same as pastebin.)
+
+not much to check except for their username and create date, can match up with other coding websites along with their code / pastes. very quick session,
+theres also a db which you will have found and looked up for since you have snus, you may also look for their socials in the credits / notes of their code
+
+Steam:
+
+Comments on profile are typically close friends
+Games with lots of hours are ones theyll have gambling accounts / forum accounts for e.g CSGO
+Friends lists will show who they know
+VAC Ban for games will show you what games they cheat on, therefore giving you forums to search for downloads and usernames along with db leaks
+
+Pinterest:
+
+Pictures will most likely be ones they have on their phone or have downloaded, picuures names stay the same
+Will probably post these pictures on other sites like deviantart
+Shows interests and hobbies along with things they may like, their aesthetic, which can confirm
+socials they post on like Instagram or etc
+
+well when people sign up with gmail
+their username will always be the first part of their email without @gmail.com
+
+LinkedIn:
+
+https://www.reversecontact.com/ exports all linked in info from email , 30 searches free, just create new accs 
+
+You can skim their information from their job, call their job and see if they pickup ,see if their coworkers pickup to transfer you to them
+see how long theyve worked their and view their position, you can call them about job opportunitites or message them pretending to be a business
+or business owner / etc in order to get more information about them.
+
+Business emails can be found here
+
+Use their profile for social medias that may be linked, you can also look people up on thatsthem and instantcheckmate to confirm it.
+
+TikTok:
+
+Save their pfp for reverse search
+Check hashtags for an area
+Check following for the followers area (check a good bit, due to followers always being in their area as TikTok shows people in their area)
+Check hashtags for names and hobbies
+skim commenst
+skim username
+skim tiktoks for usernames, etc you know the drill,
+and skim their profiles description along with checking for any links and timezone etc they may have accidentlaly shown. put real effort in
+
+Apple:
+Free Partials, forgot pw it and guess the icloud 
+
+finding socials from socials is something we
+have yet to go over, which we will be going over here, always search following lists for their common users or names
+Just attempt to find socials connected to the socials you already have and socials via their names which we will
+go over in the future. enjoy
+
+KeyBase:
+
+Decoding the base64 on the keybase can give you an email
+
+WhatsApp:
+
+Basic, you can look for their profile picture, text them and SE them pretending to be an IRL, and overall doesn't have an extreme amount of info, 
+but you can still gain lots from it just by being "witty".
+
+Microsoft:
+
+Microsoft account usernames will always be the same as Xbox usernames
+When jacking into a Microsoft, you can typically get into their OneDrive which stores all text files, always attempt to check for OneDrive
+Microsoft owns Hotmail and Outlook, be sure to check aliases on both.
+Microsoft is a gaming platform that owns many platforms, if you jack their account log into their bing for their search history, they also have device info and ip info
+along with phone numbers and etc publicly displayed in their settings.
+
+Lovense:
+
+A lovense account will have a DOB, alias, the ability to request and control someones dildo
+There is a method to get a lovense from an email, Reiko knows it, ill ask him soon.
+Also might be a way to find their location via connecting with them, ill make a method soon, need to test.
+
+Nvidia:
+
+Stores clips, you should be able to get every clip of theirs if you jack their account, also sometimes they publicize them to show other people, so 
+thoroughly view their profile and videos for usernames.
+
+Shein:
+
+Will have a location and name, just look for the account correctly.
+
+Riot Games:
+
+Has no valuable information except for the games they play, e.g league of legends or valorant.
+
+TON checking (Telegram):
+
+Reversing TON addresses into usernames can give you aliases, do Cryptosint to look through ton wallets and use draw.io to make a graph of 
+which wallets belong to who and what alias etc.
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+
+Part 2: Email
+
+By this point, you should have an email, the first thing you should do is Epieos the email (Epieos.com)
+Then run it through myth.rip for accounts, and snusbase it along with IntelX if you have the opportunity
+By this point you wont need to put it in your contacts due to you having myth.rip, but if you don't, 
+put it into your contacts and check social medias.
+
+Use Holehe and SEON for the main connections, and the partial connections come from myth or other methods youve learned prior.
+
+osint.industries can be applied and used to find many socials linked to emails, it's the best tool for lookin for connections and things 
+of that nature.
+
+Note: not free
+
+You can use PayPal request to get a full name (requesting money)
+
+Forgot password the email to get partials
+
+Check things like pizza places, ubereats, etcetera, for the ability to SE for an address, name, number, etcetera {SE}
+
+When jacking into an outlook email, always export the cloud data for their files, txts with passwords, etc.
+
+Gmails will typically have skypes connected, you will see this with Epieos
+
+You can SE services like spotify for partial gmails to guess
+
+Common keywords will be their names, dobs, etc, so if your name is jared blacksmith and your birthday is january 15th your email might be:
+
+jaredblacksmith115@gmail.com
+
+small things like birthdays can get you into a lot of different emails, its important to check deeply when checking emails
+
+Things like protonmail, skiff, etc, are all worth putting down, throwaway or not because you may still be able to log in at some point or
+keyword it for other emails with the same names
+
+Custom domains can lead to whois data or more information about who owns the domain and what kind of biolink / information they may use
+
+their emails are also likely to be a common username theyve used in their past, vice versa
+
+Dorking emails online can lead you to contact information or domain info such as .edu for schools or bios on social medias
+
+Iclouds are literal public rape, least secure shit ever
+
+
+IMPORTANT:
+Something I can't stress enough is thinking outside of the box, thinking about every single possible combination that can go into an email.
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+
+Part 3: GEOSINT, IP Addresses, GeoLocation
+
+
+GEOSint is something that is quite important, you will need to analyze an area and say to yourself "Is this the country, a city?"
+With the release of AI it has become much easier to find places from images online, such as houses and more, it becomes easier
+and easier to find people. 
+
+You need to look for signs, look into the addresses you find down to the last detail, the bricks on buildings and more.
+Have a planned out drawing board you can paste the image to to match up images side by side, really all you need to do 
+is confirm that the place you're looking at is the same place.
+
+IPs should come from database breaches, which is the next category
+
+Internet Protocol addresses are the way you connect to the internet really, you connect from an IP and it is logged everywhere you go
+when you search an IP a better way to confirm is when someone is online and you have a suspected IP, you port scan it then hit it off
+and see if they go offline.
+
+You can use geolocation tools and WHOIS data to find out about an ISP and where the IP comes from, a general location typically down to 
+coordinates / area code.
+
+ISP finding info used to be popular where you could livechat an employee and give them information related to an IP and they would then return you an address.
+
+This can still be incorporated if you're smart, or have a private script. 
+
+Note: always check for VPN using muultiple sources
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+
+Part 4: Database Breaches
+
+A database breach is when a hacker gets into a database (A data storage with a bunch of user data on a website, like emails, passwords, etc)
+and leaks it to the public after breaching it or sells it, you will typically find these breaches on forums such as breachedforums or 
+nulled.to, etcetera. A lot of these aren't on things like snusbase or IntelX when they originally come out so its good to keep a lookout
+for free downloads and unraped data.
+
+They will include a number of things which I listed above and are ultimately the most useful thing, I recommend gathering one or multiple
+of the following services:
+
+Snusbase
+IntelX
+DeHashed
+Truth.Broker
+FiveM DatabaseCheck
+SkidSearch {MC}
+And downloading your own databasess that you need. (This is very important for find infoes, always look for databases, sometimes search tools just wont
+have them)
+
+Asking redline for logs is good.
+
+All of these are good tools for searching for database leaks, inputting things like full names, IP addresses, and more can give you 
+returns which can even result in fullfind infoes with singular searches.
+
+Dehashing passwords that are hashed in databases can give you logins.
+
+Query Widlcarding: putting _'s in an email and searching with wildcard on will give you results that can be a possible email
+                   example: n______@gmail.com can be input and return with: nigga58@gmail.com
+                   putting a % at the end of something can query it to infinite possibilities
+                   example: andrew%@gmail.com will return all results with a gmail that starts with andrew in a database leak.
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+
+Part 5: Full Names
+
+Finding a full name, whether you found their full name on a social media, data breach, email, whatever, you now have it and are ready to use it.
+
+You can dork their name online using google dorking, a function I will teach you here:
+
+Google dorking is putting in a search query that will return something specific, I recommend looking into it on your own
+
+Example: Putting quotation marks will search for returns with exactly what you search 
+
+"Negroidd883" will only return things with Negroidd883 in the website's page.
+
+Site:twitter.com will only return shit with the site twitter.
+
+Dorking a full name will return only sites with their fullname, whether this is a peoplesearch or anything else alike.
+
+These are always useful to skim, I suggest searching through most pages you think could include their information.
+
+Peoplesearches are only typically useful if you have a non common name, like Jeriacho Deskasion, a 1 of 1 or 1 of 20 name
+
+You should only typically peoplsearch common names if you have something like an area code, town, etcetera to confirm the searches
+
+Finding names is the same as everything else, use db breaches and dorks to find social medias along with various peoplesearch sites
+
+Using Osint.Industries can help you find gmails from fullnames and there is much more, as I have said its all common sense
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+
+Part 5: Addresses
+
+As you already know all of their information except their address and family now, you will need to either attain their families information if they are a minor
+or find their information if they are not, to do peoplesearches, you know geosint so you can find a state, etc. to widdle the area down.
+
+You can jack into accounts or SE food delivery services which again, we have went over. 
+
+A quick reminder, you'll notice we've already went over most of the stuff I'm saying, notice that you're learning.
+
+TLOs from NekoTLO are about $15 per, and $500 to access. I sell them for $20, t.me/Omnisient of course.
+
+A TLO is a credit report database that updates every 2 months, has everything on every american
+
+Peoplsearches are great for addresses, which we already know
+
+These are most of the methods to get addresses, you can also SE cell companies with number OSINT which is next.
+
+DB Breaches will sometimes also contain addresses
+
+Documents and court cases can also contain addresses, along with images of documents on social medias
+
+Government Websites can help you learn more about this, you can find homes by tax returns and etc
+
+all kinds of government lookups.
+
+Also voter lookups can give you a sense of state, etc, id.
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+
+Part 6: Phone Numbers
+
+Finding numbers is something you can learn better 
+
+SE their friends into giving you the numbers
+
+find info their friends, girlfriend, etc, and FORCE, yes FORCE, them to give it to you, only if it's for a good cause
+
+Guessing it with partials can work if you go on multiple sites like samsung etc and get lots of partials to add up to each other
+
+Relatively you'll find their number with their addy or etc, other shit
+
+Numbers are things you'll find during the finding info process, now I won't go over 3rd world numbers up until the end of this document, but most of these
+should still work with 3rd world phone numbers.
+
+Forgot password an insta and put in a phone number for the username
+Put the phone number into SEON and Myth.rip and/or your contacts to get a list of Social Medias with usernames.
+
+Put the number into peoplesearches, and spam lists, to see if the number is VoIP you can first check a carrierlookup.
+
+Peoplesearches, TLOs, etc, will all be public information and will likely have your person information
+
+You can search the number in a dork or just around the internet like pastebin to see if it's been in a log or registry you may be able to find.
+
+You can call the number on a VoIP to confirm whether it's theres, their parents, or more.
+
+You can put the number into things like ubereats, etc, as we've went over this to see if you can SE. (Coming next).
+
+You can use their number on things like google and confirm a name on the gmail to get a login and bypass 2fa.
+
+Numberlookups can give you area code and timezone of the specific number, etc, widdling down the area
+
+you can jack tiktoks, aols, etc, using the default tmobile voice mail pin and logging into the voicemail after they call you with number
+
+In the USA when you get bulk numbers with your family, it will be one above the other many times
+Example, if the number ends in 15 it will be 16 for the mom or dad when they get their numbers together.
+
+phonerator generates active phone nuumbers from partials
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+
+Part 7: SEing
+
+Social Engineering, or SEing, the art of manipulating or being a fraud in order to get what you need from someone.
+
+SEing companies in order to get info, such as ubereats which i've mentioned many many times, or such as AT&T, if you have information on a mail you can
+SE into it via a phone call.
+
+A lot of SEing comes from SEing peoples friends or finding info people and SEing them making them think you'll truly harm them for information on others
+
+you may be asking, well, isnt this extortion? Yes, but this is for a good cause and let me explain why before you stop reading
+
+You are extorting for information on a pedophile, you arent extorting for a girl to cut your name or some odd shit or some CP, youre extorting because
+youre a good fucking guy and you are helping the community.
+
+SEing any types of companies, friends, etc, will get you somewhere, I will make a scripts section in the future of this document
+
+Remember, SEing comes down to pure skill and knowledge, you have to be smart to SE and be able to improvise.
+
+Any company with livechat or employee support will give you the availability to SE as long as they're indian, they don't get paid enough to protect
+your information
+
+Remember, again, last reminder, this is all smarts and how you can flow with conversation, sometimes you don't need a script, just be SMART.
+
+Being a girl or pretending to be a girl / having a girl who will SE for you is the best case, as guys tend to trust them, vice versa
+
+You should make an alt account now and start aging it, the more aged the account is the better.
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+
+Part 8: Relatives
+
+Attempting to find relatives is much easier, all you need to really do is find their personal socials, which we have gone over, and then you have to
+find their relatives or friends, friends parents will know their parents, etcetera, you can gain a multitude of relatives just by finding one
+check tagged posts, etc to find other relatives
+
+Look for people with the same name as their parents, skim the web,
+
+See the thing is, to find relatives all you need to do is use what you already know and try to find info them using their childs find info, that's all
+
+There is no secret method, just do what you've learned.
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+
+Part 9: 3rd Worlders
+
+This is a concept I will explain you won't have to read again
+
+3rd worlders, even first world countries apart from america, yes they are harder to find info in, but really let's think
+what's different apart from no peoplesearches? There are still work platforms, all you really need is some google translating and 
+a little extra time on your hands. 
+
+Using every method except for peoplesearches, which i've tried to include the least, you should be able to find info a 3rd worlder, just look.
+
+Having the right thinking space can take a while, but just remember it's the same thing, just no peoplesearches, a bit less public.
+
+Try to learn more foreign social media platforms
+
+Most used by foreign countries:
+
+Weibo
+WeChat
+Kuaishou
+Douyin
+VK
+Douban
+Pinterest
+Telegram
+Baidu Tieba
+LINE
+Odnoklassniki
+Q Q
+Qzone
+Reddit
+TikTok
+WhatsApp
+Twitter
+LinkedIn
+
+You already know the american ones and VK, you can learn the rest of these quite quickly on your own.
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+
+Part 10: Confirmation
+
+Always try to disprove yourself when you get a lead, prove its not them.
+
+Confirming things should go as in depth as calling their cellphones, using good manners and trying to talk to parents about their children
+
+Getting into accounts, which I dont reccomend as it is illegal (XP) 
+
+All of confirmation is common sense, for example facial recognition, using facial recognition you can verify the social media and using
+UMAX you can get an in depth check of 2 photos you may think are different people.
+
+And you've just learned facial recognition, the thing about confirmation is the confirmation on a find info will never be the same as your last
+there are plenty different ways to confirm, you just have to find them.
+
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+
+Part 11: Formatting
+
+Formatting
+
+You want your information nice and easy to read, all the information you have gained should be neatly put into a pad and ready to paste.
+
+You only want to paste information that can harm the individual or can be used against them or to troll them.
+
+The point of a find info is to hurt someones reputation, fuck with them, etcetera, nobody is going to read their parents biography, theyre going
+to want to contact them and harass them.
+
+Put it in categories so they're seperated and easy to read, this is simple and that is all.
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+CSINT | Closed source intelligence
+
+Explanation from camerforensics.com:
+
+How is OSINT different from CSINT?
+
+In addition to proprietary tools and software, CSINT may also involve the use of classified information, such as intercepted communications or data from surveillance systems. While this type of information isn’t accessible to the public, it may be available to authorised investigators.
+
+Due to the confidential nature of this data, CSINT tools are more likely to involve developed and specialist platforms – usually gated through licences, subscriptions, 
+or gated access. In contrast, OSINT tools are publicly available in directories like this.
+
+CSINT examples
+
+Specific, confidential, or specialist information available to select users, including:
+
+    Analysis and specialist forensics tools
+    Classified geolocation services
+    Confidential datasets supplied by law enforcement agencies
+
+The only way you will be able to do CSINT, is by getting into things or accessing things on your own alike:
+
+SSN Lists
+TLO Reports
+PEP Lists
+VIN Lists
+Databases breached by you
+Jacking Social Media accounts for information
+Getting into Governed portals, such as LE (Law Enforcement) panels
+Jacking into admin accounts, such as in schools or hotel receptions, etc. 
+Medical Records
+Banking Records / Banking Accounts
+Business Records, hacking businesses, etc.
+Phishing emails
+Private Database Leaks
+Forum skimming for private leaked shit.
+
+You can do most of these with data breaches on your own, finding someone who works somewhere, getting into the account with stealer logs, etc.
+
+This information is also sold on a few online markets.
+
+Some lists are posted publicly, but gaining access to them is not easy on your own.
+
+This all depends on how far you're willing to go for a target.
+
+If you can pay for something, it's OSINT.
+
+
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Part 12: SEing:
+
+
+Go to spotify support with the persons spotify in bio.
+Head to live chat and get in contact.
+
+Contact MSG:
+
+Hey, i forgot my email for spotify and wondering if you could help me out. I cleared my cookies and it signed me out of everything and I use multiple emails across different platforms so I'm having a bit of trouble finding it, can you help me please remember it? It would mean so much. My spotify url is this: SPOTIFY URL HERE if that helps.
+
+
+SAY: update on an order
+
+Hey, i was just on the line with another doordash employee but the line got hung up, they were assisting me with an issue involving my account. May i provide the 
+email associated to my doordash account? Okay thanks, (provide email associated to account). Are you able to locate my account? Are you able to see the most recent order?
+Just to confirm, what is it? I want to make sure we're talking about the right account. (Most recent order can be used for future calls if first call fails) 
+Oh, no that's not my most recent order, “where was the food sent? because i don’t recall ordering that at all, now i’m worried” 
+(Mentioning the general location can be handy when asking this, some employees are just incompetent and will tell you).
+
+
+If you have most recent order: I was having trouble with my most recent order.    I never received my food for that. What address was it sent to?
+
+NOTES if your gonna call back make sure to write down the date of the order and the where they ordered from
+
+
+https://help.uber.com/ubereats/restaurants/article/chat-support-for-sign-in-issues?nodeId=200c6fb2-94a8-47d2-b08f-c362b8450e46
+
+hiya, im on another account right now but im trying to contact you in regards about my account. I ended up placing an order and not sure if it was set on the right delivery address can you help me please?
+
+my email / phone number is (email or phone number)
+
+
+Hey, my name is name. I am contacting you to see what number/address you have on file for me. Just to confirm everything is right, could you help me out with this? The email I use is email
+
+Thank you so much, the reason why I'm asking this is because I'm looking to make sure if I'm using the correct address/phone number for my account. I decided to live chat with you as right now, I am unable to access my email. I use a security key USB to sign in on my pc, and i'm currently on my phone at work. So i was just wondering if you could confirm the address/phone number you have on file for me. I was going to buy some shoes when I got home and I'm just asking now in case I need to update it later.
+
+https://www.nike.com/au/help/#contact (australian)
+https://www.nike.com/za/help/ (South Africa)
+https://www.nike.com/?geoselection=true
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Part 13: Advancing
+
+Here are some advanced methods that will get you going, starting now.
+
+Geospy.ai: an AI tool that you can use for GEOSINT if you are at a dead end, it will usually get the right answer
+
+Google Cache: Google will Cache and save older versions of social profiles and websites, kind of like archive.org but better, you can access this with a simple web addon
+
+Phonerator: A tool you can use in order to find every valid phone number based on the partials you have
+
+Samsung method: Using an email, if someone is signed up to Samsung you can forgot password it, along with forgot passwording something like paypal to get the last 4 digits, leaving you with only 2 digits missing
+                one will be in the area code, this will make it easy to guess the last numbers and get their phone number
+
+Mathematical dormatory checks: using a picture theyve taken from inside of their dorm, you can likely find out via a window how high up they are, using an equation to widdle down the exact number of dorm rooms, you can 
+                               get the number from something like 1-200 to dorm 34-57 (Building address) by doing a math equation diving the dorm rooms by the floors
+
+Thinking illogically: better known as thinking outside the box, finding info requires intelligence, you must ascend yourself, putting their names backwards, putting in different combinations, finding tools for specific things
+                      people wouldnt think to use tools for, it's a very basic thing, but forgotten, once you can find things that others wouldnt even think about, you will start advancing
+
+Pixel Sizing devices: While trying to find a device, if they take a screenshot you can get the pixel size dimensions of their screen and identify the phone type based on the brand of phone you identify.
+
+ChatGPT: you can use chatgpt for things like emailing lists, different domains, secure domains, and making a list of checkable emails, while it cannot do the osint for you, it can make lists of social medias and things 
+         like emails to speed up your finding info process
+
+SEON Admin: you can get a SEON admin account by owning a domain, and placebo-ing it as a OSINT website, this will allow you to check ~100 emails at a time to see if they exist, speeding up the process 10x
+
+Facial Recognition via socials: looking through 10s of tools and putting someones face in each may be able to widdle down the person, also scanning and nothing their features for things like finding parents and etc via the gene pool.
+
+Advanced Facial Recognition/Body Analysis Tools:
+Megvii Face++: A Chinese facial recognition tool that can match faces across social networks and even detect facial expressions and mood.
+PimEyes: Known for identifying individuals across multiple images, including those without a public profile, by comparing facial landmarks.
+Clearview AI: (If accessible) Offers powerful facial recognition by cross-referencing images with vast social media databases and online public images.
+
+Using pads effectively and finding a person to find info with you: while this may seem counter-intuitive, you will need someone to work with you, and do things for you, do lookups you cant do or don't want to, along with assigning each
+                                                             other different tasks so you will be able to work faster and more appreciatively. (MAKE SURE THEY ARE AT YOUR SKILL LEVEL, SO THEY DON'T MISS THINGS)
+
+Being thorough: Looking through socials thoroughly, documenting things, using archive.is to web archive pages, archiving is an extremely big part of finding info, making sure you save every little bit of information
+                will help you very much.
+
+EGirls: using egirls to get information and SE can be a very very lucrative method, but also a very risky one as your plans can be outed by the girl.
+        going around and asking who their exes are, then asking the exes who the other exes are, and overall being kind to them will get you a lot of information.
+
+Information Chaining: Information chaining is when you find info someone, then they have info on someone else, and the cycle continues, asking people for everyones find infoes will help you build a massive vault that will come in handy.
+
+Typing style monitoring: Use FBI BAU’s Behavioral Analysis techniques combined with OSINT to identify common digital behavior of certain personality types (e.g., narcissists, predators, hackers).
+                         Linguistic Analysis (LIWC): Software that analyzes writing patterns to determine psychological state, emotions, and personality traits of targets based on social media posts or messages.
+
+Part 2: An addition list for each thing I went over before
+
+1. Enhancing Tool List:
+Expand the username lookup tools:
+
+Add tools like Sherlock or Namechk, which work similarly to WhatsMyName but offer better coverage on certain platforms.
+Add Maigret (another username lookup tool covering ~2000 websites).
+API-Based Lookups:
+
+Tools like IntelX or FullContact provide API-based queries, allowing deeper social profiles, email lookups, and leaked data.
+2. Adding Modern OSINT Search Techniques:
+Browser Extensions and Automation:
+
+Maltego and Spiderfoot: Mention how graphing tools like these can track data visually and connect between databases, usernames, and personal information.
+Use Selenium to automate scraping websites that don't provide easy access.
+AI Tools:
+
+Utilize Clarifai or PimEyes for AI-based image searches to analyze more than just PFP and banners.
+
+3. Expanded Social Media Tactics:
+Facebook Graph Search (Advanced Facebook search through APIs or specific search queries).
+Twitter Advanced Search combined with tools like TweetBeaver and Twint for scraping and deeper analysis of public profiles.
+Instagram API: Automated tools that can retrieve followers, comments, and interaction data.
+
+4. Use of Databases and Search Engines:
+Data Enrichment Platforms like Pipl, Spokeo, or Creepy to tie data from emails or phone numbers back to physical locations or identities.
+Include Public Records databases such as government portals (U.S., UK, EU) for deeper searches.
+Google Dorking:
+Provide more examples of Google dorking queries for discovering hidden files, social profiles, and emails (e.g., intitle:"index of" "mail").
+
+5. Geolocation Methods:
+Add EXIF Data Extraction (using tools like Jeffrey’s Image Metadata Viewer) to find location information from images.
+OSINTCombine GEOINT tool can extract geographical information from social media.
+
+6. Dark Web OSINT:
+Tools like Ahmia (dark web search engine) or Recon.dev could be suggested for tracking a target across dark web marketplaces or forums.
+Include Onion search engines like Torch for deep web/dark web browsing.
+
+7. Additional Reverse Image Search Tools:
+Aside from Google and TinEye, mention Yandex (especially useful for facial recognition) and Exposing.ai (specifically for identifying images linked to Flickr, Instagram).
+
+8. In-Depth DNS and Network Search:
+Add steps on how to perform WHOIS lookups more efficiently using tools like ViewDNS.info or IPinfo.io.
+Use Shodan.io and Censys.io for device lookups to find connected devices and potential vulnerabilities.
+
+9. Enhancing Privacy and Security Measures:
+Proactive Defense Tactics:
+Include instructions on setting up PGP/GPG encryption for emails.
+Expand on privacy tools like Tails OS, Qubes OS, or Whonix.
+
+10. Specific Section on AI-based Tools:
+Mention tools like X-Ray (for social media profile analysis using AI) or Sensity AI (for spotting deepfakes).
+
+11. Cross-Platform Social Media Search:
+SocialSearch.io: Allows you to search multiple social media platforms at once to identify cross-platform activity.
+Hunch.ly: A web capture tool to record evidence as you browse across different platforms, ensuring that important findings are documented and timestamped for verification purposes.
+
+12. Deeper Dark Web Exploration:
+Recon-ng: A powerful tool for reconnaissance, especially useful for dark web and deep web investigations. It allows you to pull data from multiple sources (via modules) to perform complex queries.
+DNSTrails: Helps track domains that appear both on the clear web and dark web to correlate connections between public and private data.
+DarkSearch.io: Another dark web search engine that allows access to deep-web data.
+
+13. Language-Specific Intelligence Gathering:
+Weblate, Translatica: Use these for translation services if you're working with international cases that require language-specific information gathering.
+DeepL for translating intricate legal or governmental documents from other languages, which may help when investigating foreign targets.
+Explore region-specific search engines like Yandex (Russia), Baidu (China), or Naver (Korea) to explore local social networks.
+
+14. Metadata Extraction and Document Forensics:
+PDF-XChange Viewer: Extract hidden metadata from PDF documents to see edits, authorship, and export histories.
+Docbleach: A tool to sanitize and analyze metadata in Office files and PDFs.
+Exiftool: Already widely known, but you can take it further by linking Exiftool with GPSVisualiser to plot image data on real-world maps.
+
+15. Enhanced Visual Intelligence:
+Mapillary: A tool similar to Google Street View but crowdsourced, allowing you to view street-level imagery from areas not covered by Google.
+InVID: A powerful tool for verifying the authenticity of videos and images. It can break down frames, extract metadata, and verify social media content.
+Keyhole: Allows live social media mapping by analyzing hashtags, geo-locations, and visual content to understand trends and real-time activity.
+
+16. Network Traffic Analysis:
+Wireshark: An advanced tool for capturing network traffic. If investigating through network forensics, Wireshark can reveal deep packet information.
+SecurityTrails: For tracing the origin of networks, finding subdomains, tracking DNS changes, and mapping domain infrastructure.
+IPinfo and MaxMind GeoIP: Offer detailed ISP, geolocation, and ownership information for tracing IP addresses.
+
+17. Satellite Imagery and Geo-Spatial Intelligence:
+Sentinel Hub: A free source of satellite data for tracking real-time and historical environmental changes, useful for identifying large-scale geospatial shifts.
+Zoom Earth: Near real-time satellite imagery for natural disasters, weather patterns, or changes to physical environments.
+OpenAerialMap: Similar to Google Maps, but it is open-source and crowdsourced, allowing investigators to access different satellite imagery that may not be available through standard platforms.
+
+18. Phishing Intelligence (Social Engineering Research):
+GoPhish: A tool to test and understand phishing tactics, which can be used to simulate scenarios or understand how attackers might gain access to user information.
+Evilginx: A powerful phishing tool that uses reverse proxy to gather real-time session tokens, bypassing two-factor authentication.
+
+19. E-Mail Tracing and Forensics:
+MXToolbox: Use to investigate email headers and trace email server origins.
+HaveIBeenPwned: To search through a vast repository of breached emails to see if the email you're investigating has been compromised.
+EmailRep.io: Provides detailed risk analysis of email addresses including reputation, breaches, fraud risk, and links to social profiles.
+
+20. Domain Ownership and Hosting Info:
+DomainBigData: A useful resource for tracking down domain owners and seeing associated domains, including the ability to see archived WHOIS records.
+CertSpotter: Scans the web for SSL certificates that match certain search criteria, helping to find linked domains or services using the same SSL setup.
+
+21. Enriched Data Sources:
+Pipl Pro API: The paid version offers even deeper searches into social connections, email ownership, and relational data for more comprehensive intelligence.
+Clearbit: A service for enriching email addresses with more personal information (social media links, company info).
+Breach Compilation Checker: Scans across multiple breach databases to give a faster result of where a certain email or username has appeared.
+
+22. Profiling Using Behavioral Analysis:
+Digital Shadow: Advanced OSINT tool that uses machine learning to create a profile based on the target's digital footprint. It identifies behaviors, connections, and risk factors.
+Dataminr: Leverages AI to provide real-time information from social media, news sites, blogs, and more, helpful for monitoring live events or changes in a target’s online presence.
+
+23. API and Programmatic Automation:
+OSINT Framework API: Automate OSINT workflows by integrating various tools using APIs. This can be useful for large-scale or bulk investigations.
+Zapier: Automate interactions between various social media OSINT tools, like automatically logging posts, comments, or creating alerts when targets change their online activity.
+
+24. Advanced Dorking Techniques:
+FoFa and ZoomEye: These tools allow advanced web dorking across a wide variety of services, much like Shodan, but they cover broader platforms, including Chinese sites.
+GitHub Dorks: Using specific search patterns on GitHub to find leaked credentials, configurations, or sensitive data files (e.g., API keys).
+
+25. Fake Identity Research and Impersonation Tracking:
+FakeProfileDetector: Uses reverse image search and metadata to detect fake accounts or stolen profile images.
+Socid: Social identity investigation tool that tracks impersonation patterns and fake accounts across different platforms.
+
+26. Deep Video Analysis and Facial Recognition:
+VideoContext AI: Enables deep video analysis including object recognition, facial identification, and contextual analysis to extract key intelligence from video footage.
+
+FindFace: A facial recognition tool for identifying individuals in photos across social media and databases.
+27. Network-Linked Insights:
+Amass: Can map networks, subdomains, and network-related services.
+PassiveTotal: Investigates threats by gathering domain, IP, and malware information, including tracking infrastructure used by bad actors.
+
+28. Deeper Search into Code Repositories (Developers/Tech-savvy Targets):
+Snyk.io: Checks for vulnerabilities in GitHub repositories to identify exposed credentials or sensitive data in code.
+Gitleaks: An automated tool to find sensitive information like API keys and tokens hidden in Git repositories, including public or misconfigured private repositories.
+Github Recon: Explore large GitHub projects by analyzing user contributions for emails, IPs, and other critical data left in commits.
+
+29. Digital Forensics Tools for Artifacts: (MORE RAT RELATED THAN OSINT)
+Autopsy: A powerful, open-source digital forensics tool for analyzing hard drives and smartphones. Great for investigating evidence gathered from a compromised system.
+Bulk Extractor: Extracts useful data like credit card numbers, email addresses, URLs, and other details from files, archives, and forensic images.
+
+30. Ad Intelligence and Tracking:
+AdSense Profiler: Investigate the ads a target is using or responding to. This can reveal locations, interests, or tracking methods.
+Ghostery: Check which websites and ad platforms are tracking someone through various cookies or social widgets.
+
+31. Network Infrastructure Investigation:
+Censys: Helps identify all the devices on a network, tracking vulnerabilities, certificates, and open ports to reveal security weaknesses.
+Netcraft: A platform to investigate IP ranges, domain registrants, and hosting providers for network mapping.
+
+32. Enhanced Web Monitoring and Real-time Data Tracking:
+Distill.io: Automatically monitors web pages and sends real-time alerts if any changes (new posts, updates to profiles) are detected.
+Visualping: Monitors specific websites for changes and will alert when updates occur, useful for tracking dynamic content like blog posts or social media activity.
+
+33. Blockchain and Cryptocurrency OSINT:
+CipherTrace: A blockchain forensics tool that helps track and trace cryptocurrency transactions back to real-world identities.
+WalletExplorer: Use to link Bitcoin wallets with IP addresses, public addresses, and even real-world identities.
+Chainalysis: Helps track cryptocurrency transactions through the blockchain, often used by law enforcement to investigate illegal crypto activities.
+
+34. Chat and Messenger Intelligence:
+ChatDump: A tool used for scraping and monitoring public IRC and Discord chat logs, which can provide useful social interaction data about individuals or groups.
+
+35. Mobile App Reverse Engineering (APK Analysis):
+MobSF (Mobile Security Framework): Perform static and dynamic analysis of Android APKs and iOS apps to reverse engineer their function and find potential weaknesses.
+Androguard: Analyze Android apps to extract information about embedded URLs, API keys, or other hidden functions.
+
+36. Digital Presence Monitoring:
+Mention.com: Tracks mentions of an individual’s name, social handle, or company across the web, providing real-time alerts when something new appears.
+Talkwalker: Similar to Mention, but provides deeper analytical tools for monitoring real-time social conversations, hashtags, and content across the web.
+
+37. Forensic Linguistics:
+JStylo: For identifying authorship from anonymous texts or documents, analyzing writing style, and comparing it to known samples.
+Auctus Forensics: Linguistic software that assists in profiling criminals or identifying authorship by examining vocabulary, grammar, and syntax used in communications.
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Personal Security | The security of your person (You)
+
+Start off by going to your emails and using things like SEON, HoleHe, and Personal emails to find out what social medias you have signed up to.
+
+After this, you will want to delete all of your social medias, as you have likely signed up on your home ip, and then delete all of your emails.
+
+Next, do a factory data reset with a USB as to leave no data behind.
+
+The first thing you will do on your new OS, is download the Librewolf Browser, then download Mullvad VPN.
+
+After you have done this, you should download KeePassXC, just incase you need any accounts on your Main OS (You shouldn't.)
+
+Next, you will download VirtualBox if you're on windows, not VMWare (SpyWare), in order to get MX Linux as your VM.
+
+Set up MX Linux with LUKS Encryption and 200+ Bit passwords, if you have a bad memory you may use sentence passwords for your boot up such as
+
+"I shot a retard in the head last tuesday".
+
+They're easier to remember. Never save these passwords in your KeePass on your Main OS, only in your head.
+
+Next, download Librewolf, Mullvad, KeePassXC, and your preferred chatting app, such as Telegram if you want, make sure to use proxies on Telegram, and everything
+else.
+
+If you cannot afford proxies, you can always use Mullvad proxies.
+
+Create a new online Identity, only using skiff.com emails, as they are encrypted, and SMSPool numbers, as they temporary and can never lead back to you.
+
+You should also have common sense, make sure your timezone isn't yours, your VM's name and password has nothing to do with you, and you never tell anyone anything about you.
+Even if it's someone you trust, starting now you're always 21, and somewhere in Europe, like Russia.
+
+Mullvad Settings:
+
+Launch app on startup: On
+
+Auto Connect: On
+
+Local Network Sharing: On (For Mullvad on Main and Guest OS.)
+
+DNS Content blockers: All except Social Media, On.
+
+Enable IPv6: Off
+
+Kill Switch: On
+
+Lockdown Mode: On
+
+Tunnel protocol: Wireguard
+
+-- Wireguard Settings --
+
+Port: Automatic
+
+Obfuscation: On (UDP over TCP)
+
+IP Version: Automatic
+
+Multihop: On
+
+Use different Skiff's for everything.
+
+When making posts online, at any point, use a random font, as to not be dorked on search engines.
+
+Only ever use crypto for transactions, preferably XMR, Ethereum, LTC.
+
+Don't use youtube and shit, if you're going to watch something do it on your phone.
+
+Don't use your phone for anything security related or anything related to your online identity unless its an android and you're using Limbo VM along with VPN and etc
+how I taught you.
+
+If you don't want to set upu a VM, simply don't use your phone for online shit, just to make calls and etcetera, which you shouldn't be using your real number for, only for
+real life close friends and family.
+
+Never talk, never show your face, even with a voice changer your voice can be re pitched, facial recognition exists.
+
+Customize all of your social medias settings to show the least they can
+
+Never use the same username
+
+Never use the same password
+
+Never use the same Emails
+
+You get it.
+
+Try to find info yourself, patch up every lead possible.
+
+Enjoy your journey on better Security
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
