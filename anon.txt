@@ -1,0 +1,116 @@
+Here are some tips and tools to help you be more anonymous in general.
+DISCLAIMER: Perfect anonymity doesn't exist, but it can be approached.
+
+The computer: aim for an AMD CPU last generation (ryzen) or ARM because intels have uncorrected flaws. (those flaws also allows viruses to install themself in your bios)
+Also, if it's a laptop, the best is to take one without an os preinstalled or with freedos
+
+NEVER TAKE A "WINDOWS S" COMPUTER. You can't install anything that is outside of the microsoft store.
+There are also librem pc's (intel processor)
+Make sure to enable TPM 2.0 (not the cpu fTPM tho)
+
+OS: A GNULinux-based OS, the must is Qubes + Whonix, or anything opensource + no systemd (if you're an arch fan, you should use artixlinux, since it's arch but "better" and no systemd, otherwise www.gnu.org/distros/free-distros.html
+
+Linux kernel: use the linux-hardened kernel, easy to install; on arch just do
+
+    sudo pacman -S linux-hardened linux-hardened-headers
+
+
+Windows tracks each of your move especially since 10. All of their telemetry stuff also eats your performance, by alot. you can install custom iso's like AME or atlasOS, but you can also customize it yourself with ntlite (the "best" windows 10 version is IoT LTSC, windows 11 is way worse)
+
+If you still want to use windows: https://wpd.app/ & https://privacy.sexy/ & https://www.getblackbird.net/
+note : this will also greatly affect fps in a good way, since all those bloats and telemetry and spywares from microsoft are sending datas everywhere and everytime, which has a huge impact on performance.
+
+Make sure to regularly check for viruses, malwares, adwares. use https://www.malwarebytes.com/adwcleaner to remove adwares that affects performance, and https://www.malwarebytes.com as an antivirus to scan your pc (you don't need to enable realtime protection if you're a pro like me who doesn't downloads and launches weird things without scanning them & reverse-engineering them with ida pro / ghidra)
+but the best still is to use gnulinux, you could just do a dualboot (2 os's) so you use a gnulinux distro as main and windows for gaming
+
+Hard disk encryption: The easiest is Veracrypt. Very important, if anyone gets a hold of your computer, encryption will theoretically prevent them from reading your hard drive. (also prevents anyone from your family from seeing anything "unwanted" lol)
+but if you're the type of people that lose their password easily, then don't.
+
+Clean your data: forget Ccleaner, it's a spyware, use BleachBit instead.
+
+Change your DNS: opennic.org or dns.watch to avoid using your ISP's DNS, pair with Stubby under Linux (you can also use dnscrypt)
+Quad9 DNS is a good choice.
+Also, disable Netbios if you can, it's vulnerable to MITM Attacks (in some cases, disabling netbios can "break" internet, but it's easy to re-enable)
+
+VPN: Mullvad VPN (if you have money), or else, there's RiseupVpn / Bitmask, else any vpn that doesn't have logs
+There's also a script to change your ip every 5 seconds. very useful : https://gist.githubusercontent.com/...7628f96cdc4f9dfc74463/ipchanger_every5sec.txt
+
+    If you can, use a proxy
+    Disable IPV6
+    ProtonVpn and NordVPN both has logs, so they're not as safe as you think.
+    Pay in cryptocurrencies / cash if you can
+    Choose a country outside the fourteen eyes
+    You can also create your own VPN under an offshore server (Moldova has a good legislation).
+
+Browser: Use Librewolf, it's firefox but better.
+
+    Use this config https://github.com/arkenfox/user.js/ OR do these tweaks in about:config : https://chrisx.xyz/blog/yet-another-firefox-hardening-guide/
+    Addons : uBlock Origin, Decentraleyes, Privacy Badger, Https Everywhere. check privacytools.io/browsers/#addons for few other addons.
+    Use a user agent switcher
+
+TOR: You should use a VPN if you're going on .onions, also do the firefox tweaks that i gave above in tor, since it's based on firefox.
+
+Torrent : the best is qBittorrent, enable "anonymity" in the settings.
+NOTE : torrenting is illegal in alot of countries, be really careful, or just don't use torrents, use jdownloader2 to download files from mega etc (but be careful about viruses)
+
+Search engine: Searx, Metager, or Duckduckgo
+
+Change your mac address: if you're on linux, use macchanger, if you're on windows, use TMAC
+make sure to use "02" as first octet
+
+Mail: Msgsafe.io or Protonmail.ch (beware Protonmail has a good reputation but has already collaborated with the Swiss authorities)
+
+Communication: Session exists in Desktop version, generally communicate via networks using PGP (PGPTool) or IRC chats, there's also Revolt, qTox, Signal, SimpleX.
+
+Photos/videos: They contain EXIF data that can track you, use an exif remover. (also check your camera's settings, make sure to disable the geolocalization)
+
+Networks: If you can * access * your neighbors's wifi, then it'd be "better".
+
+Remove certificates that spy on you: Go in your web browser's certificates, and remove every certificates from QuoVadis
+
+Firewall: Having a hardware firewall is preferable, pfsense or a fork of pfsense and running a first vpn on it. It is quite difficult to configure, there are tutorials on the internet but you have to search on yggtorrent and open as few ports as possible.
+
+Script to bypass packet inspection: https://github.com/ValdikSS/GoodbyeDPI
+(if you're in a country that is blocked, this will be helpful)
+
+Search your name and nicknames on Google to see if it finds anything about you and do everything to make it disappear.
+If you don't manage to remove everything you can "flood" by creating fake content
+
+PROSCRIBE: Google, social networks (mainly facebook), Discord, Tiktok (massive spying, don't use at all), Telegram, Microsoft.
+
+PHONE.
+The must is not to have a smartphone, a dealer phone bought with cash or crypto with an anonymous sim and a modified IMEI is fine.
+
+Smartphone: Librem 5 or pinephone, tho the hardware of those phone is bad, so you can just mod your current phone.
+avoid wiko or unknown cheap brands.
+xiaomi phones are pretty good for their price, else google pixels since they support calyxOS and grapheneOS)
+
+OS: Lineage OS or e.foundation OS if your phone is compatible, or grapheneOS if you have a google pixel
+
+Apps: (note, you can use other alternatives, the best is to use open-sourced apps)
+Also, if you're using things like twitter, reddit, there's opensource frontend alternatives, check https://www.privacytools.io/#frontend
+
+    VPN: either the same as on PC (Mullvad also exists on android) otherwise you can try Mysterium which is free for the moment, else orbot (tor vpn)
+    Fdroid & Aurora store: instead of Google Play
+    Floris board: to replace the Google keyboard
+    New Pipe or Libretube: instead of youtube. or use revanced
+    Mull: privacy-friendly web browser
+    Scrambled eggs: to remove exifs from your photos
+    QKSMS: to replace your sms app
+    Open camera: for camera (or grapheneOS camera app)
+    Shelter: a sandbox to use risky apps
+    In short, you understood, replace all your apps by opensource apps preferably
+    Useful links: https://prism-break.org/en/
+
+GENERALITIES:
+
+    Make sure you disable anything like "send anonymous data", "use data", any telemetry, bloatwares (unwanted preinstalled apps)
+    Always check that your VPN is active.
+    Don't use the same nickname everywhere
+    The GPS tag on your phone remains active for 30 minutes after it is turned off. If you can go out without taking your phone, do so.
+    Use your credit card as little as possible, cash is untraceable, otherwise use crypto if possible
+    Do not share your real identity with anyone, name location business activity etc.. The best is even to cover your tracks by spreading false information on your different accounts
+    For the most determined, you can create clothes that contain infrared LEDs that blur the cameras, there are tutorials on the net.
+    If you live in a big city, there are many cameras, if you do not want to be tracked put a pollution mask and a cap, sunglasses in summer. Take a stylish cap so you don't look like someone who is just trying to hide. (Since covid exists, you won't really be suspect if you're wearing a mask)
+    To receive packages, use an abandoned mailbox, get PTT passes and stick a random name on the mailbox.
+    If you are on a sensitive site avoid clicking directly on the links, copy/paste them into the browser, so that it won't show which site you are from.
