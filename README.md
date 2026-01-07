@@ -5,6 +5,7 @@ https://www.truepeoplesearch.com
 https://onlinereverselookup.com
 https://www.officialusa.com
 https://www.idcrawl.com
+https://www.duplichecker.com/reverse-image-search.php
 https://start.me/p/L1rEYQ/osint4all
 https://whitepages.com
 https://www.yellowpages.com/
