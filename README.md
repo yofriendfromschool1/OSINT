@@ -41,6 +41,10 @@ https://picarta.ai/
 https://findpiclocation.com/
 https://galaxy.ai/
 https://www.findthatspot.io/
+https://www.reddit.com/r/wherewasthistaken/
+https://www.whereisthisphoto.com/
+https://chatgpt.com/g/g-TOADOq5ud-photo-locator
+https://whereisthisplace.net/
 https://osm-search.bellingcat.com/
 https://geoseeer.com/
 https://web.archive.org/
