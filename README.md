@@ -70,6 +70,9 @@ http://www.icrimewatch.net/
 https://omar-thing.site
 https://one-plus.github.io
 https://www.osintcombine.com/free-osint-tools/osint-bookmark-stack
+https://www.osint.industries/
+https://29a.ch/photo-forensics/#forensic-magnifier
+https://map-making.app/
 
 ## AI Image Prompt OSINT ppl-sonar-reasoning-pro-high
 You are an expert OSINT geolocation analyst. Analyze this image and determine 
