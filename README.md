@@ -39,7 +39,6 @@ https://youtube.com/@georainbolt
 | [OSINT4All](https://start.me/p/L1rEYQ/osint4all) | Curated start.me page of OSINT resources |
 | [OSINT Combine Bookmarks](https://www.osintcombine.com/free-osint-tools/osint-bookmark-stack) | Browser bookmark stack of OSINT tools |
 | [OnePlus OSINT](https://one-plus.github.io) | Collection of OSINT tools and utilities |
-| [Omar Thing](https://omar-thing.site) | OSINT aggregator and search hub |
 
 ---
 
@@ -169,6 +168,7 @@ https://youtube.com/@georainbolt
 | [Imginn](https://imginn.com/) | Instagram content viewer without account |
 | [LinkedIn](https://www.linkedin.com/feed/) | Professional network and employment OSINT |
 | [CodeOfANinja Tools](https://www.codeofaninja.com/tools/) | Social media and API development tools |
+| [Omar Thing](https://omar-thing.site) | OSINT tiktok aggregator and search hub |
 
 ---
 
