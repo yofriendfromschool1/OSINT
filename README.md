@@ -5,6 +5,7 @@ https://youtube.com/@georainbolt
 > Found a tool that's missing? [Open an issue](../../issues) or fork the repo and submit a PR!
 
 ---
+- https://hermes-agent.nousresearch.com/
 
 ## 📋 Table of Contents
 
