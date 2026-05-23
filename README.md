@@ -133,6 +133,7 @@ https://youtube.com/@georainbolt
 | [OpenSanctions](https://www.opensanctions.org/) | Sanctions lists and PEP (Politically Exposed Person) data |
 | [Crunchbase](https://www.crunchbase.com/) | Startup and company funding intelligence |
 | [ZoomInfo](https://www.zoominfo.com/) | B2B company and contact intelligence |
+| [OpenPayrolls](https://openpayrolls.com) | Salary Database |
 | [Apollo.io](https://www.apollo.io/) | Sales intelligence and contact database |
 | [D&B Hoovers](https://www.dnb.com/en-us/products/dnb-hoovers.html) | Business intelligence and company profiles |
 | [Google Hacking Database](https://www.exploit-db.com/google-hacking-database) | Google dorks for finding exposed data |
