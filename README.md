@@ -121,6 +121,7 @@ https://youtube.com/@georainbolt
 | [WhatsmyName](https://whatsmyname.app) | Username enumeration across 500+ platforms |
 | [HaveIBeenPwned](https://haveibeenpwned.com/) | Check email addresses against known data breaches |
 | [Dehashed](https://dehashed.com/) | Search leaked credentials and breach databases |
+| [Serus](https://www.serus.ai) | Search leaked info |
 
 ---
 
