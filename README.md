@@ -73,6 +73,7 @@ https://youtube.com/@georainbolt
 | [ExifTool](https://exiftool.org/) | Extract metadata (EXIF data) from images/files |
 | [Photo Forensics (29a.ch)](https://29a.ch/photo-forensics/#forensic-magnifier) | Browser-based image forensics and manipulation detection |
 | [Imginn](https://imginn.com/) | Instagram image/story viewer and downloader |
+| [sherlocksearch](https://www.sherlocksearch.com/) | photo lookup people |
 
 ---
 
