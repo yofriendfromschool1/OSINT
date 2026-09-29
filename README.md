@@ -147,6 +147,7 @@ https://youtube.com/@georainbolt
 | Tool | Description |
 |------|-------------|
 | [VehicleHistory](https://www.vehiclehistory.com/license-plate-search) | License plate and vehicle history lookup |
+| [CleanVins](https://www.cleanvins.com/) | Free VIN decoder and $9.99 NMVTIS vehicle history reports |
 
 ---
 
